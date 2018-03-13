@@ -8,8 +8,8 @@
 # Site settings
 title: Scurvy Club
 brief-intro: The coolest club around
-baseurl: "" # the subpath of your site, e.g. /blog
-url: "https://rustyventure420.github.io/Scurvy-Club-Tables" # the base hostname & protocol for your site
+baseurl: "/Scurvy-Club-Tables" # the subpath of your site, e.g. /blog
+url: "https://rustyventure420.github.io" # the base hostname & protocol for your site
 
 permalink: /:year/:month/:day/:title/
 
